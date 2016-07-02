@@ -30,6 +30,6 @@ Gravity for games.
 //
 // return:
 // the magnitude of influence on the object give its distence from the center of the gravity source.
-fGravityFalloff(pMagnitude, pSurfRadius, pMaxReach, pDist)
+fFalloffGravity(pMagnitude, pSurfRadius, pMaxReach, pDist)
 ```
 
