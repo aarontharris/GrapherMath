@@ -20,6 +20,7 @@ Gravity for games.
 
 ```
 // Obtain the influence of gravity between the source and an objects distance from the source.
+// Note that the smaller your maxReach is, the less accurate gravity will be compared to reality since true gravity falloff is an extreme distance.
 //
 // params:
 // magnitude is the strength of gravity at the surface
